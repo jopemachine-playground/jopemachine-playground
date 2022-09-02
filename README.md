@@ -6,4 +6,4 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jopemachine-playground&langs_count=8)](https://github.com/jopemachine-playground/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jopemachine-playground&layout=compact&langs_count=8)](https://github.com/jopemachine-playground/github-readme-stats)
